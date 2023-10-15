@@ -7,7 +7,7 @@ echo '<table>
     <title>Parámetros del servidor</title>
 </head>
 <body>
-<h1>Parámetros del servidor. 21:42</h2>
+<h1>Parámetros del servidor. 13:07</h2>
     <table border="1">
         <tr>
             <th>PARÁMETRO</th>
